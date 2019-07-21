@@ -8,26 +8,34 @@ body {
 }
 header {
     background: #ebebeb;
+    margin-bottom: 10px;
+    padding: 30px;
 }
 nav {
     background: #ebebeb;
+    margin-bottom: 20px;
+    padding: 30px;
 }
 section {
     background: #ebebeb;
     width: 495px;
+    margin-bottom: 20px;
     float: left;
 }
 aside {
     background: #ebebeb;
+    margin-left: 20px;
     float: left;
 }
 footer {
     clear: both;
+    padding: 30px;
     background: #ebebeb;
 }
 article {
     color: #ebebeb;
     background: #777;
+    padding-top: 20px;
 }
 h1 {
     color: #777;
